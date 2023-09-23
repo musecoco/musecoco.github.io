@@ -1,1 +1,1 @@
-# musecoco.github.io
+# MuseCoco.github.io
